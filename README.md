@@ -1,4 +1,7 @@
-The bucketlist final submission branch is the final submission for the BucketList project Spring 2020 for
+
+
+
+The bucketlist contributors are
 Sejal Vora
 Arushi Saran
 Isabella Luo
